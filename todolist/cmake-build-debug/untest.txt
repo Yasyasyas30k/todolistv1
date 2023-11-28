@@ -1,0 +1,9 @@
+Nom de la tache : test                / Date de création : 12-12-2000            8593 / Statut : 859387192 / Jours nécessaires : 2
+Nom de la tache : oui              / Date de création : 12-12-2020            8593 / Statut : 859387192 / Jours nécessaires : 2
+Nom de la tache : test            / Date de création : 12-12-2000            / Statut : 859387192 / Jours nécessaires : 12
+Nom de la tache : encours          / Date de création : 12-12-1999          / Statut : 859387192 / Jours nécessaires : 12
+Nom de la tache : test         / Date de création : 12-12-2000         / Statut : 859387192 / Jours nécessaires : 2
+Nom de la tache : encours       / Date de création : 12-12-2000       / Statut : 859387192 / Jours nécessaires : 23
+Nom de la tache : enattente      / Date de création : 12-12-2000      / Statut : 892941625 / Jours nécessaires : 23
+Nom de la tache : ouiii     / Date de création : 12-12-2020     / Statut : 943010360 / Jours nécessaires : 12
+Nom de la tache : oui   / Date de création : 12-12-2000   / Statut : 808596024 / Jours nécessaires : 2

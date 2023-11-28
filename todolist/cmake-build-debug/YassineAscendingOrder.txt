@@ -1,0 +1,13 @@
+Tache716,01-03-2000,Terminée,8
+Tache840,27-04-2001,Terminée,8
+Tache807,26-06-2002,En cours,2
+Tache188,08-06-2010,Terminée,7
+Tache977,09-01-2013,En cours,1
+Tache544,22-12-2013,Terminée,6
+Tache871,26-06-2014,En cours,7
+Tache194,31-06-2017,En cours,4
+Tache668,07-01-2020,Terminée,4
+Tache517,16-10-2020,Terminée,9
+Tache979,13-04-2021,En cours,2
+Tache425,18-04-2022,Terminée,2
+Tache492,27-04-2023,En cours,9
